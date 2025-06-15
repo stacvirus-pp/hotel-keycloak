@@ -1630,6 +1630,10 @@
     "authType": "basic",
     "user": "parfaitandre5@gmail.com"
   },
+  "loginTheme": "",
+  "accountTheme": "",
+  "adminTheme": "",
+  "emailTheme": "hotel-email",
   "eventsEnabled": false,
   "eventsListeners": [
     "jboss-logging"
@@ -2663,7 +2667,8 @@
     "frontendUrl": "",
     "acr.loa.map": "{}",
     "shortVerificationUri": "",
-    "actionTokenGeneratedByUserLifespan.reset-credentials": ""
+    "actionTokenGeneratedByUserLifespan.reset-credentials": "",
+    "darkMode": "true"
   },
   "keycloakVersion": "26.2.5",
   "userManagedAccessAllowed": false,
